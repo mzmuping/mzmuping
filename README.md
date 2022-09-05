@@ -1,7 +1,7 @@
 ### Hi there 👋
 <table>
   <tr>
-    <td>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzmuping&show_icons=truel&layout=compact)</td>
+    <td>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzmuping&show_icons=truel&layout=compact)]</td>
     <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzmuping&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</td>
   </tr>
 </table>
